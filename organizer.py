@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 os.chdir('C:\\Users\\abder\\Downloads')
 directorys=('Images','Videos','Documents','Compressed','Programs','Others')
